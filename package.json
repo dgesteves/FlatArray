@@ -1,0 +1,26 @@
+{
+  "name": "flatarray",
+  "version": "1.0.0",
+  "description": "flatten an array of arbitrarily nested",
+  "main": "index.js",
+  "scripts": {
+    "karma": "karma start my.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstevesDiogo/FlatArray.git"
+  },
+  "author": "Diogo Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstevesDiogo/FlatArray/issues"
+  },
+  "homepage": "https://github.com/EstevesDiogo/FlatArray#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0",
+    "jasmine-core": "^3.4.0",
+    "karma": "^4.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1"
+  }
+}
